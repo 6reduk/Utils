@@ -6,6 +6,11 @@
         <Nullable>enable</Nullable>
         <RootNamespace>Pupo4ek.Utils</RootNamespace>
         <AssemblyName>Pupo4ek.Utils</AssemblyName>
+        <PackageId>Pupo4ek.Utils</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>Dmitriy Shestakov</Authors>
+        <Company>Pupo4ek</Company>
+        <Product>Simple mockable utils</Product>
     </PropertyGroup>
 
 </Project>
